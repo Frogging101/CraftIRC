@@ -63,7 +63,6 @@ public class CraftIRCPluginExample extends JavaPlugin {
     /* (non-Javadoc)
      * @see org.bukkit.plugin.Plugin#onDisable()
      */
-    @Override
     public void onDisable() {
 
     }

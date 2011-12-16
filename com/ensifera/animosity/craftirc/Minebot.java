@@ -660,7 +660,6 @@ public class Minebot extends PircBot implements Runnable {
         sendMessage(target, message);
     }
 
-    @Override
     public void run() {
         this.init(false);
     }
